@@ -8,4 +8,4 @@ The objective of this project is to build an end-to-end deep learning pipeline t
 
 ⸻
 
-👉 Do you want me to expand this further into a full README section (with dataset details, methodology, requirements, results, and usage), so it looks like a complete project repo?
+
